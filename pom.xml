@@ -59,7 +59,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>consultancy-service</finalName>
+		<finalName>accommodation-service</finalName>
 	</build>
 
 </project>
